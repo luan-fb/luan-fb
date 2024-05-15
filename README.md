@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/luan-fb/luan-fb/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/luan-fb/luan-fb/blob/main/img/header.png?raw=true"/>
 </div>
 
 -----
@@ -41,7 +41,7 @@
 </div>
 
 <div align="justify">
-<i><b>Olá a todos</b> :wave:, meu nome e<code>Luan Ferreira</code>,e estou muito feliz em conhecê-los. Atualmente, sou um estudante de tecnologia, cursando Sistema de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, aqui em Belo Horizonte, onde também resido. Desde cedo, desenvolvi uma paixão ardente pela tecnologia, e essa jornada tem sido uma verdadeira aventura de aprendizado e descobertas. Com 22 anos de idade, estou sempre buscando novos conhecimentos e desafios para aprimorar minhas habilidades e contribuir para o mundo da tecnologia de forma significativa. Estou ansioso para compartilhar experiências e aprender com todos vocês! 
+<i><b>Olá a todos</b> :wave:, meu nome e<code>Luan Ferreira</code>,e estou muito feliz em conhecê-los. Atualmente, sou um estudante de tecnologia, cursando Sistema de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, aqui em Belo Horizonte, onde também resido. Desde cedo, desenvolvi uma paixão ardente pela tecnologia, e essa jornada tem sido uma verdadeira aventura de aprendizado e descobertas,estou sempre buscando novos conhecimentos e desafios para aprimorar minhas habilidades e contribuir para o mundo da tecnologia de forma significativa. 
 </div>
 
 -----
