@@ -57,21 +57,14 @@
 
 <div alinhar="justificar">
 <p>
-- :man_teacher:   Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>professor</code> da Ciência da Computação, <br />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :mortar_board:   Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de <br />Software e Ciência da Computação.<br />
-- :gravata:   Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :avião:<br />
-- :mala:   Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, ou seja, <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_professor:<br />
-- :man_teacher:   Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :troféu:   Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br / >
-- :atom:   Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/luan-fb/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/luan-fb/c/blob/main/Aramuni.c" target="_blank">uma linha</a> :thinking:)<br />
-- :memorando:   Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :livros:   Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :futebol:   Sou atleticano, torque para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :galo:<br />
-- :basquete:   Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/ " target="_blank">Tíbia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.< br/>
-- :speech_balloon:   Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :caixa de correio:   Para me encontrar, esse é meu <a href="mailto:luan-fb@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendário:   Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up:   Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+ 
+- :man_teacher: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Sistemas de Informação <br />
+-  :atom: Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/luan-fb?tab=repositories" target="_blank">aqui</a>.<br />
+- ⚽ Minha paixão de berço, <img src="https://i.pinimg.com/originals/0f/01/2b/0f012b045f0a94c29da929d92842139d.png" alt="Símbolo do Cruzeiro" width="15" height="15"> <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Cabuloso</a> <br />
+- 💻 Meus hobbies são <a href="https://dev.to/" target="_blank">Programar</a>, <a href="https://ge.globo.com/futebol/brasileirao-serie-a/)" target="_blank">Assistir Futebol</a>, jogar bola e ver filmes e series baseados em fatos reais <br />
+- 💬 Compartilhe seus conhecimentos, estou sempre disposto a aprender.<br />
+- 📫 Para me encontrar, esse é meu <a href="mailto:luan-fb@gmail.com" target="_blank">e-mail</a> pessoal. <br />
+- :page_facing_up:   Veja meu <a href="https://drive.google.com/file/d/1DEqMV2oi4Kjafyij1PXmi0U7mRQRknW5/view?usp=drive_link" target="_blank">Currículo </a> para mais informações.
 </p>
 </div>
 </div>
