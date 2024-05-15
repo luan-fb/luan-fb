@@ -20,13 +20,13 @@
 <td><a href="mailto:luanfboaventura@gmail.com" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="https://wa.me/5531994555586" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5231994525286" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 <td><a href="https://www.instagram.com/luanfaske/" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="https://www.linkedin.com/in/luan-ferreira-671b05559/" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/linkedin.gif?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/luan-ferreira-671b05259/" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/linkedin.gif?raw=true" width="50px" height="50px"/></a>
 </td>
 
 <td><a href="https://discordapp.com/users/" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
@@ -83,19 +83,19 @@ Sou um estudante dedicado de Sistema de Informação no <a href="https://newtonp
 
 <img height="20" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/skills.gif?raw=true"/> Linguagens e ferramentas:
 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/java.png?raw=true"/></a></code>
-<code><a href="https://isocpp.org/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/cpp.svg?raw=true"/></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/html.svg?raw=true"/></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/css.svg?raw=true"/></a></code>
-<code><a href="https://spring.io/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/spring.png?raw=true"/></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/mysql.png?raw=true"/></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/postgresql.png?raw=true"/></a></code>
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/mongodb.png?raw=true"/></a></code>
-<code><a href="https://www.postman.com/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/postman.png?raw=true"/></a></code>
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/eclipse.png?raw=true"/></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/vs.png?raw=true"/></a></code>
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/intellij.png?raw=true"/></a></code>
-<code><a href="https://www.bloodshed.net/" target="_blank"><img width="55" height="55" src="https://github.com/luan-fb/luan-fb/blob/main/img/dev-c-icon.jpg?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/java.png?raw=true"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/cpp.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/html.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/css.svg?raw=true"/></a></code>
+<code><a href="https://spring.io/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/spring.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/postgresql.png?raw=true"/></a></code>
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/mongodb.png?raw=true"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/postman.png?raw=true"/></a></code>
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/eclipse.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/vs.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/intellij.png?raw=true"/></a></code>
+<code><a href="https://www.bloodshed.net/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/dev-c-icon.jpg?raw=true"/></a></code>
 </div>
 
 -----
