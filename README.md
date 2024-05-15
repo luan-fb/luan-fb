@@ -46,11 +46,17 @@
 
 -----
 
+<img height="20" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+
+<div alinhar="justificar">
+Sou um estudante dedicado de Sistema de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitario Newton Paiva</a> com uma paixão por tecnologia desde a infancia. Durante minha jornada acadêmica, adquiri sólidos conhecimentos em programação, banco de dados e desenvolvimento de software, além de uma compreensão abrangente dos princípios fundamentais da tecnologia da informação. Sou hábil em linguagens de programação como Java, além de ter conhecimentos em bancos de dados relacionais, como MySQL. Além disso, possuo uma mentalidade analítica e orientada a soluções, que me permite abordar desafios de forma eficaz e encontrar soluções inovadoras.Estou em busca de uma oportunidade de estágio na área de Tecnologia da Informação (TI), onde possa aplicar e expandir meus conhecimentos adquiridos durante o curso de Sistema de Informação. Estou motivado a contribuir com projetos desafiadores, aprender com profissionais experientes e desenvolver habilidades práticas que me permitam crescer profissionalmente neste campo dinâmico e em constante evolução. Estou confiante de que minha paixão pela tecnologia, combinada com minha determinação e habilidades técnicas, me tornará um grande profissional futuramente.
+</div>
+
 -----
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/computer-illustration.png?raw=true" width="340px" height="520px "/>
+<img align="right" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/computer-illustration.png?raw=true" width="340px" height="300px "/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -60,7 +66,7 @@
  
 - :man_teacher: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Sistemas de Informação <br />
 -  :atom: Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/luan-fb?tab=repositories" target="_blank">aqui</a>.<br />
-- ⚽ Minha paixão de berço, <img src="https://i.pinimg.com/originals/0f/01/2b/0f012b045f0a94c29da929d92842139d.png" alt="Símbolo do Cruzeiro" width="15" height="15"> <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Cabuloso</a> <br />
+- ⚽ Minha paixão de berço, <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Cabuloso</a>  <img src="https://github.com/luan-fb/luan-fb/blob/main/img/cruzeiro.png?raw=true" alt="Símbolo do Cruzeiro" width="16" height="16"> <br />
 - 💻 Meus hobbies são <a href="https://dev.to/" target="_blank">Programar</a>, <a href="https://ge.globo.com/futebol/brasileirao-serie-a/)" target="_blank">Assistir Futebol</a>, jogar bola e ver filmes e series baseados em fatos reais <br />
 - 💬 Compartilhe seus conhecimentos, estou sempre disposto a aprender.<br />
 - 📫 Para me encontrar, esse é meu <a href="mailto:luan-fb@gmail.com" target="_blank">e-mail</a> pessoal. <br />
