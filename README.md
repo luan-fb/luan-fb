@@ -124,7 +124,7 @@ Sou um estudante dedicado de Sistema de Informação no <a href="https://newtonp
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <a href="mailto:luan-fb@gmail.com" target="_blank">
+        <a href="mailto:luanfboaventura@gmail.com" target="_blank">
           <img width="400px" height="120px" src="https://github.com/luan-fb/luan-fb/blob/main/img/github-footer2.png?raw=true" alt="github-footer2"/>
         </a>
       </td>
