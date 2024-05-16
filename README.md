@@ -117,25 +117,27 @@ Sou um estudante dedicado de Sistema de Informação no <a href="https://newtonp
 </div>
 
 -----
-
-</div>
-<div>
-<tabela>
-<tr>
- <td alinhar="center" colspan="2"></td>
-</tr>
-<tr>
-<td>
-<a href="mailto:luan-fb@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/luan-fb/luan-fb/blob/main/img/github-footer2.png?raw=true?raw=true" alt="github-footer2"/></a>
-</td>
-<td>
-<a href="https://github.com/luan-fb" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/luan-fb/luan-fb/blob/main/img/githubfooter1.png?raw=trueraw=true" alt="github-footer1"/></a>
-</td>
-</tr>
-<tr>
- <td alinhar="center" colspan="2"></td>
-</tr>
-</tabela>
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2" style="padding: 20px;"></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">
+        <a href="mailto:luan-fb@gmail.com" target="_blank">
+          <img width="400px" height="120px" src="https://github.com/luan-fb/luan-fb/blob/main/img/github-footer2.png?raw=true" alt="github-footer2"/>
+        </a>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://github.com/luan-fb" target="_blank">
+          <img width="400px" height="120px" src="https://github.com/luan-fb/luan-fb/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 20px;"></td>
+    </tr>
+  </table>
 </div>
 
 
