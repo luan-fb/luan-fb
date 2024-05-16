@@ -108,3 +108,20 @@ Sou um estudante dedicado de Sistema de Informação no <a href="https://newtonp
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luan-fb&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan-fb&theme=github_dark"/>
 </div>
+<br/>
+
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=your-github-luan-fb&label=Visualizações+)
+
+</div>
+
+-----
+
+
+
+
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gray§ion&section=footer"/>
+
+
+<!-- Obrigado pela visita! -->
