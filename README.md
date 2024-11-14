@@ -26,7 +26,7 @@
 <td><a href="https://www.instagram.com/luanfaske/" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="https://www.linkedin.com/in/luan-ferreira-671b05259/" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/linkedin.gif?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/luan-fb" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/linkedin.gif?raw=true" width="50px" height="50px"/></a>
 </td>
 
 <td><a href="https://discordapp.com/users/" target="_blank"><img src="https://github.com/luan-fb/luan-fb/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
