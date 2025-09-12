@@ -40,16 +40,20 @@
 </table>
 </div>
 
-<div align="justify">
-<i><b>Olá a todos</b> :wave:, meu nome e<code>Luan Ferreira</code>,e estou muito feliz em conhecê-los. Atualmente, sou um estudante de tecnologia, cursando Sistema de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, aqui em Belo Horizonte, onde também residuo. Desde cedo, desenvolvi uma paixão ardente pela tecnologia, e essa jornada tem sido uma verdadeira aventura de aprendizado e descobertas,estou sempre buscando novos conhecimentos e desafios para aprimorar minhas habilidades e contribuir para o mundo da tecnologia de forma significativa. 
-</div>
-
 -----
 
 <img height="20" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
-<div alinhar="justificar">
-Sou um estudante dedicado de Sistema de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitario Newton Paiva</a> com uma paixão por tecnologia desde a infancia. Durante minha jornada acadêmica, adquiri sólidos conhecimentos em programação, banco de dados e desenvolvimento de software, além de uma compreensão abrangente dos princípios fundamentais da tecnologia da informação. Sou hábil em linguagens de programação como Java, além de ter conhecimentos em bancos de dados relacionais, como MySQL. Além disso, possuo uma mentalidade analítica e orientada a soluções, que me permite abordar desafios de forma eficaz e encontrar soluções inovadoras.Estou em busca de uma oportunidade de estágio na área de Tecnologia da Informação (TI), onde possa aplicar e expandir meus conhecimentos adquiridos durante o curso de Sistema de Informação. Estou motivado a contribuir com projetos desafiadores, aprender com profissionais experientes e desenvolver habilidades práticas que me permitam crescer profissionalmente neste campo dinâmico e em constante evolução. Estou confiante de que minha paixão pela tecnologia, combinada com minha determinação e habilidades técnicas, me tornará um grande profissional futuramente.
+<div align="justify">
+  <p>
+    <b>Olá, eu sou o Luan Ferreira 👋</b><br><br>
+    🎓 Estudante de <b>Sistemas de Informação</b> (previsão de formatura: 2026)<br>
+    💻 Estagiário de <b>Desenvolvimento Mobile</b> na Hinova<br>
+    📱 Apaixonado por <b>Android (Java/Kotlin)</b> e sempre explorando novas tecnologias do ecossistema.<br><br>
+    Tenho experiência prática em <b>Java, Kotlin e Spring Boot</b> no desenvolvimento de aplicações mobile e back-end, 
+    integração com bancos de dados relacionais, testes unitários e deploy em nuvem.  
+    Atualmente, foco no desenvolvimento de apps Android nativos, estudando também <b>Jetpack Compose</b> e bibliotecas modernas. 🚀
+  </p>
 </div>
 
 -----
@@ -84,29 +88,24 @@ Sou um estudante dedicado de Sistema de Informação no <a href="https://newtonp
 <img height="20" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/skills.gif?raw=true"/> Linguagens e ferramentas:
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/java.png?raw=true"/></a></code>
-<code><a href="https://isocpp.org/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/cpp.svg?raw=true"/></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/html.svg?raw=true"/></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/css.svg?raw=true"/></a></code>
+<code><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></code>
+<code><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></code>
 <code><a href="https://spring.io/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/spring.png?raw=true"/></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/mysql.png?raw=true"/></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/postgresql.png?raw=true"/></a></code>
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/mongodb.png?raw=true"/></a></code>
+<code><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 <code><a href="https://www.postman.com/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/postman.png?raw=true"/></a></code>
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/eclipse.png?raw=true"/></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/vs.png?raw=true"/></a></code>
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/intellij.png?raw=true"/></a></code>
-<code><a href="https://www.bloodshed.net/" target="_blank"><img width="52" height="52" src="https://github.com/luan-fb/luan-fb/blob/main/img/dev-c-icon.jpg?raw=true"/></a></code>
+<code><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code>
+<code><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
+
 </div>
 
 -----
 
 <img height="20" alt="GIF" src="https://github.com/luan-fb/luan-fb/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan-fb&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luan-fb&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luan-fb&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan-fb&theme=github_dark"/>
+<div align="center">
+  <img alt="GitHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=luan-fb&show_icons=true&theme=tokyonight"/>
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-fb&layout=compact&theme=tokyonight"/>
 </div>
 <br/>
 
